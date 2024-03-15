@@ -229,6 +229,13 @@ a{
     font-weight: bold;
     color: gold;
   }
+.row1-box:hover img{
+    opacity: 0.5;
+    transition-duration: 1s;
+  }
+  .row1-box:hover{
+    scale: 1.1;
+  }
   .film-container p{
     text-align: center;
     color: #fff;
